@@ -4,6 +4,7 @@ Script to submit large number of MESA jobs on a cluster
 
 Start by making a project folder.
 In the project folder create the following folder tree:
+
 /executables/
 
 /grid/
