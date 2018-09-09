@@ -5,9 +5,13 @@ Script to submit large number of MESA jobs on a cluster
 Start by making a project folder.
 In the project folder create the following folder tree:
 /executables/
+
 /grid/
+
 /job_logs/
+
 /model_list/
+
 /scripts/
 
 Or download a version of this repository to there.
